@@ -1,0 +1,2 @@
+defmodule Xlang do
+end
